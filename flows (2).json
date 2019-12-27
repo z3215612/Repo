@@ -1,0 +1,1 @@
+[{"id":"f3a4c536.e4ecc8","type":"function","z":"69e3d906.b43f88","name":"Set to 0","func":"msg.payload = 0;\nreturn msg;","outputs":1,"noerr":0,"x":470,"y":560,"wires":[["84eec2ee.ee5c3","c8def4b8.2255a8"]]}]
